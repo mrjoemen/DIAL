@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/DIAL/static/css/main.eb6bf67c.chunk.css",
+    "main.js": "/DIAL/static/js/main.920f3c15.chunk.js",
+    "main.js.map": "/DIAL/static/js/main.920f3c15.chunk.js.map",
+    "runtime-main.js": "/DIAL/static/js/runtime-main.639c947c.js",
+    "runtime-main.js.map": "/DIAL/static/js/runtime-main.639c947c.js.map",
+    "static/css/2.11829350.chunk.css": "/DIAL/static/css/2.11829350.chunk.css",
+    "static/js/2.195b39e6.chunk.js": "/DIAL/static/js/2.195b39e6.chunk.js",
+    "static/js/2.195b39e6.chunk.js.map": "/DIAL/static/js/2.195b39e6.chunk.js.map",
+    "index.html": "/DIAL/index.html",
+    "precache-manifest.24c3e87a506d2a9a77891cc970cae579.js": "/DIAL/precache-manifest.24c3e87a506d2a9a77891cc970cae579.js",
+    "service-worker.js": "/DIAL/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/DIAL/static/css/2.11829350.chunk.css.map",
+    "static/css/main.eb6bf67c.chunk.css.map": "/DIAL/static/css/main.eb6bf67c.chunk.css.map",
+    "static/js/2.195b39e6.chunk.js.LICENSE.txt": "/DIAL/static/js/2.195b39e6.chunk.js.LICENSE.txt",
+    "static/media/DAILWhiteLetters.svg": "/DIAL/static/media/DAILWhiteLetters.8cb3625b.svg",
+    "static/media/HelenaLopes.jpg": "/DIAL/static/media/HelenaLopes.20a56a77.jpg",
+    "static/media/styles.css": "/DIAL/static/media/slide2.2cdb29df.jpg",
+    "static/media/myphoto2.jpg": "/DIAL/static/media/myphoto2.339ad1e2.jpg",
+    "static/media/pops2.jpg": "/DIAL/static/media/pops2.4ff053bc.jpg",
+    "static/media/removable.jpg": "/DIAL/static/media/removable.48a23007.jpg",
+    "static/media/slide3.jpg": "/DIAL/static/media/slide3.36ab141d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.639c947c.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.195b39e6.chunk.js",
+    "static/css/main.eb6bf67c.chunk.css",
+    "static/js/main.920f3c15.chunk.js"
+  ]
+}
