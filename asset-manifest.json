@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/DIAL/static/css/main.eb6bf67c.chunk.css",
-    "main.js": "/DIAL/static/js/main.90ed8fbb.chunk.js",
-    "main.js.map": "/DIAL/static/js/main.90ed8fbb.chunk.js.map",
+    "main.css": "/DIAL/static/css/main.66c68fe6.chunk.css",
+    "main.js": "/DIAL/static/js/main.3d74f11e.chunk.js",
+    "main.js.map": "/DIAL/static/js/main.3d74f11e.chunk.js.map",
     "runtime-main.js": "/DIAL/static/js/runtime-main.639c947c.js",
     "runtime-main.js.map": "/DIAL/static/js/runtime-main.639c947c.js.map",
     "static/css/2.11829350.chunk.css": "/DIAL/static/css/2.11829350.chunk.css",
     "static/js/2.195b39e6.chunk.js": "/DIAL/static/js/2.195b39e6.chunk.js",
     "static/js/2.195b39e6.chunk.js.map": "/DIAL/static/js/2.195b39e6.chunk.js.map",
     "index.html": "/DIAL/index.html",
-    "precache-manifest.f68d9577ae3cb033fd8b30bec9da2723.js": "/DIAL/precache-manifest.f68d9577ae3cb033fd8b30bec9da2723.js",
+    "precache-manifest.e74a953ba2fac2973c3bfc2a52b7c1d6.js": "/DIAL/precache-manifest.e74a953ba2fac2973c3bfc2a52b7c1d6.js",
     "service-worker.js": "/DIAL/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/DIAL/static/css/2.11829350.chunk.css.map",
-    "static/css/main.eb6bf67c.chunk.css.map": "/DIAL/static/css/main.eb6bf67c.chunk.css.map",
+    "static/css/main.66c68fe6.chunk.css.map": "/DIAL/static/css/main.66c68fe6.chunk.css.map",
     "static/js/2.195b39e6.chunk.js.LICENSE.txt": "/DIAL/static/js/2.195b39e6.chunk.js.LICENSE.txt",
     "static/media/DAILWhiteLetters.svg": "/DIAL/static/media/DAILWhiteLetters.8cb3625b.svg",
     "static/media/HelenaLopesRe.jpg": "/DIAL/static/media/HelenaLopesRe.435fdc4a.jpg",
-    "static/media/styles.css": "/DIAL/static/media/slide2.2cdb29df.jpg",
+    "static/media/styles.css": "/DIAL/static/media/slide2Re.78495035.jpg",
     "static/media/myphoto2.jpg": "/DIAL/static/media/myphoto2.339ad1e2.jpg",
     "static/media/pops2.jpg": "/DIAL/static/media/pops2.4ff053bc.jpg",
     "static/media/removable.jpg": "/DIAL/static/media/removable.48a23007.jpg",
-    "static/media/slide3Re.jpg": "/DIAL/static/media/slide3Re.c945b96f.jpg"
+    "static/media/slide3Re.jpg": "/DIAL/static/media/slide3Re.5fec4f45.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.639c947c.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.195b39e6.chunk.js",
-    "static/css/main.eb6bf67c.chunk.css",
-    "static/js/main.90ed8fbb.chunk.js"
+    "static/css/main.66c68fe6.chunk.css",
+    "static/js/main.3d74f11e.chunk.js"
   ]
 }
