@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2429ec588aeb6a08e7ed0c87d728aa0",
+    "revision": "42c514616d4efa62c9467a95d29b7ddf",
     "url": "/DIAL/index.html"
   },
   {
-    "revision": "0038f68c0670a455a460",
+    "revision": "f39d9a8fb3d0a9e799b4",
     "url": "/DIAL/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "68481a38970f807749c4",
+    "revision": "a1903fcf7a8e27e5a2fd",
     "url": "/DIAL/static/css/main.eb6bf67c.chunk.css"
   },
   {
-    "revision": "0038f68c0670a455a460",
-    "url": "/DIAL/static/js/2.71d7a82a.chunk.js"
+    "revision": "f39d9a8fb3d0a9e799b4",
+    "url": "/DIAL/static/js/2.195b39e6.chunk.js"
   },
   {
     "revision": "48708d0bba57d355d4ffc14a8bfac5cf",
-    "url": "/DIAL/static/js/2.71d7a82a.chunk.js.LICENSE.txt"
+    "url": "/DIAL/static/js/2.195b39e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "68481a38970f807749c4",
-    "url": "/DIAL/static/js/main.a8d1bf53.chunk.js"
+    "revision": "a1903fcf7a8e27e5a2fd",
+    "url": "/DIAL/static/js/main.972124b9.chunk.js"
   },
   {
     "revision": "e2404b941cad6b1e9003",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DIAL/static/media/DAILWhiteLetters.8cb3625b.svg"
   },
   {
-    "revision": "20a56a7782c8ea5a991f56d1e42bde82",
-    "url": "/DIAL/static/media/HelenaLopes.20a56a77.jpg"
+    "revision": "435fdc4a26c32f53a6659452b3b5169e",
+    "url": "/DIAL/static/media/HelenaLopesRe.435fdc4a.jpg"
   },
   {
     "revision": "05ae4838927d685347360b2c2102d300",
