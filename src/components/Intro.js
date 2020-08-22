@@ -1,5 +1,5 @@
 import React from 'react';
-import office from '../images/HelenaLopes.jpg'
+import pic from '../images/HelenaLopesRe.jpg'
 
 const Intro = () => {
 
@@ -18,7 +18,7 @@ const Intro = () => {
                 </div> 
                 <div className="col-lg-7">
                     <div className="image-container">
-                        <img className="img-fluid Sirv" src="https://carticut.sirv.com/Images/HelenaLopes.jpg" alt="alternative"/>
+                        <img className="img-fluid Sirv" src={pic} alt="alternative"/>
                     </div> 
                 </div> 
             </div> 
