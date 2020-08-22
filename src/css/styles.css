@@ -788,21 +788,21 @@ input[type='checkbox'] {
 /*********************/
 
 #slide1 {
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url(../images/slide1.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url(../images/slide1Re.jpg);
 	background-size: cover;
 	background-position: center;
 
 }
 
 #slide2 {
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url(../images/slide2.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url(../images/slide2Re.jpg);
 	background-size: cover;
 	background-position: center;
 
 }
 
 #slide3 {
-	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url(../images/NaassomAzevedo.jpg);
+	background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.0)), url(../images/NaassomAzevedoRe.jpg);
 	background-size: cover;
 	background-position: center;
 
