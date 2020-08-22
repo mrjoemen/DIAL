@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f5a4fdc490bb53983ec17441af53e7c",
+    "revision": "fbf088f8c25bae0a92ff2088708fc730",
     "url": "/DIAL/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DIAL/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "24cd8ab98a52cf22dc34",
+    "revision": "6726567a94761126ef1e",
     "url": "/DIAL/static/css/main.66c68fe6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DIAL/static/js/2.195b39e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "24cd8ab98a52cf22dc34",
-    "url": "/DIAL/static/js/main.3d74f11e.chunk.js"
+    "revision": "6726567a94761126ef1e",
+    "url": "/DIAL/static/js/main.6d1d93cd.chunk.js"
   },
   {
     "revision": "e2404b941cad6b1e9003",
@@ -52,16 +52,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DIAL/static/media/implant.e5ea3a6c.jpg"
   },
   {
-    "revision": "339ad1e29abc5ee6ffcc1ebf474a9723",
-    "url": "/DIAL/static/media/myphoto2.339ad1e2.jpg"
+    "revision": "61f7436f812decea1acd1dcd796ebb10",
+    "url": "/DIAL/static/media/implantRe.61f7436f.jpg"
   },
   {
-    "revision": "4ff053bce06ffd3d6982e188bdd109dc",
-    "url": "/DIAL/static/media/pops2.4ff053bc.jpg"
+    "revision": "ce7e8b66ae154ad1381b34839e89a986",
+    "url": "/DIAL/static/media/myphoto2Re.ce7e8b66.jpg"
   },
   {
-    "revision": "48a230071cb9505ddffcde6f001fcb36",
-    "url": "/DIAL/static/media/removable.48a23007.jpg"
+    "revision": "f6c42b990a9bb66b5d75539e43eefa12",
+    "url": "/DIAL/static/media/pops2Re.f6c42b99.jpg"
+  },
+  {
+    "revision": "154029035f2e2a44ba4b6fb3b2a21425",
+    "url": "/DIAL/static/media/removableRe.15402903.jpg"
   },
   {
     "revision": "aad6ce24551789332965ceb854699e45",

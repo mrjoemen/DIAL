@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DIAL/static/css/main.66c68fe6.chunk.css",
-    "main.js": "/DIAL/static/js/main.3d74f11e.chunk.js",
-    "main.js.map": "/DIAL/static/js/main.3d74f11e.chunk.js.map",
+    "main.js": "/DIAL/static/js/main.6d1d93cd.chunk.js",
+    "main.js.map": "/DIAL/static/js/main.6d1d93cd.chunk.js.map",
     "runtime-main.js": "/DIAL/static/js/runtime-main.639c947c.js",
     "runtime-main.js.map": "/DIAL/static/js/runtime-main.639c947c.js.map",
     "static/css/2.11829350.chunk.css": "/DIAL/static/css/2.11829350.chunk.css",
     "static/js/2.195b39e6.chunk.js": "/DIAL/static/js/2.195b39e6.chunk.js",
     "static/js/2.195b39e6.chunk.js.map": "/DIAL/static/js/2.195b39e6.chunk.js.map",
     "index.html": "/DIAL/index.html",
-    "precache-manifest.e74a953ba2fac2973c3bfc2a52b7c1d6.js": "/DIAL/precache-manifest.e74a953ba2fac2973c3bfc2a52b7c1d6.js",
+    "precache-manifest.798829686662aa34a03d2b2cb8329cbf.js": "/DIAL/precache-manifest.798829686662aa34a03d2b2cb8329cbf.js",
     "service-worker.js": "/DIAL/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/DIAL/static/css/2.11829350.chunk.css.map",
     "static/css/main.66c68fe6.chunk.css.map": "/DIAL/static/css/main.66c68fe6.chunk.css.map",
@@ -17,9 +17,10 @@
     "static/media/DAILWhiteLetters.svg": "/DIAL/static/media/DAILWhiteLetters.8cb3625b.svg",
     "static/media/HelenaLopesRe.jpg": "/DIAL/static/media/HelenaLopesRe.435fdc4a.jpg",
     "static/media/styles.css": "/DIAL/static/media/slide2Re.78495035.jpg",
-    "static/media/myphoto2.jpg": "/DIAL/static/media/myphoto2.339ad1e2.jpg",
-    "static/media/pops2.jpg": "/DIAL/static/media/pops2.4ff053bc.jpg",
-    "static/media/removable.jpg": "/DIAL/static/media/removable.48a23007.jpg",
+    "static/media/implantRe.jpg": "/DIAL/static/media/implantRe.61f7436f.jpg",
+    "static/media/myphoto2Re.jpg": "/DIAL/static/media/myphoto2Re.ce7e8b66.jpg",
+    "static/media/pops2Re.jpg": "/DIAL/static/media/pops2Re.f6c42b99.jpg",
+    "static/media/removableRe.jpg": "/DIAL/static/media/removableRe.15402903.jpg",
     "static/media/slide3Re.jpg": "/DIAL/static/media/slide3Re.5fec4f45.jpg"
   },
   "entrypoints": [
@@ -27,6 +28,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.195b39e6.chunk.js",
     "static/css/main.66c68fe6.chunk.css",
-    "static/js/main.3d74f11e.chunk.js"
+    "static/js/main.6d1d93cd.chunk.js"
   ]
 }
