@@ -18,7 +18,7 @@ const Intro = () => {
                 </div> 
                 <div className="col-lg-7">
                     <div className="image-container">
-                        <img className="img-fluid" src={office} alt="alternative"/>
+                        <img className="img-fluid Sirv" src="https://carticut.sirv.com/Images/HelenaLopes.jpg" alt="alternative"/>
                     </div> 
                 </div> 
             </div> 
