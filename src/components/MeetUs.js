@@ -1,6 +1,6 @@
 import React from 'react';
-import myphoto from '../images/myphoto2.jpg';
-import pops from '../images/pops2.jpg';
+import myphoto from '../images/myphoto2Re.jpg';
+import pops from '../images/pops2Re.jpg';
 
 const MeetUs = () => {
     return(

@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from "../../images/DAILWhiteLetters.svg";
-import useNav from './useNav.js'
+import useNav from './useNav.js';
+import AnchorLink from 'react-anchor-link-smooth-scroll'; //This is for smooth scrolling
 
 const Navbar = () => {
 
@@ -25,19 +26,19 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarsExampleDefault">
             <ul className="navbar-nav ml-auto">
                 <li className="nav-item">
-                    <a className="nav-link page-scroll" href="#header">HOME<span className="sr-only">(current)</span></a>
+                    <AnchorLink className="nav-link page-scroll" href="#header">HOME<span className="sr-only">(current)</span></AnchorLink>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link page-scroll" href="#intro">INTRO</a>
+                    <AnchorLink className="nav-link page-scroll" href="#intro">INTRO</AnchorLink>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link page-scroll" href="#services">SERVICES</a>
+                    <AnchorLink className="nav-link page-scroll" href="#services">SERVICES</AnchorLink>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link page-scroll" href="#Meet">MEET US</a>
+                    <AnchorLink className="nav-link page-scroll" href="#Meet">MEET US</AnchorLink>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link page-scroll" href="#contact" id='contactNav'>CONTACT</a>
+                    <AnchorLink className="nav-link page-scroll" href="#contact" id='contactNav'>CONTACT</AnchorLink>
                 </li>
             </ul>
             {/* <span className="nav-item social-icons">

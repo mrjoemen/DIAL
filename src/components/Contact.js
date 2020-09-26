@@ -74,16 +74,16 @@ const Contact = () => {
                                 <li><i className="fas fa-phone" /><a href="tel:6789959821">(678)995-9821</a></li>
                                 <li><i className="fas fa-envelope" /><a href="mailto:dentalartsimplant@gmail.com">DentalArtsImplant@gmail.com</a></li>
                             </ul>
-                            <h3>Follow us on Facebook!
+                            {/* <h3>Follow us on Facebook!
                             <span className="m-3 fa-stack">
                                 <a href="#your-link">
                                     <span className="hexagon" />
                                     <i className="fab fa-facebook-f fa-stack-1x" />
                                 </a>
                             </span>
-                            </h3>
-                        </div> {/* end of text-container */}
-                    </div> {/* end of col */}
+                            </h3> will be adding this later*/}
+                        </div>
+                    </div>
             <div className="col-lg-6">
                 {/* Contact Form */}
                 <form id="contactForm" data-toggle="validator" data-focus="false" onSubmit={handleSubmit}>
@@ -106,10 +106,9 @@ const Contact = () => {
                     <div id="cmsgSubmit" className="h3 text-center hidden" />
                 </div>
                 </form>
-                {/* end of contact form */}
-            </div> {/* end of col */}
-            </div> {/* end of row */}
-        </div> {/* end of container */}
+            </div>
+            </div>
+        </div> 
     </div>
     );
 };

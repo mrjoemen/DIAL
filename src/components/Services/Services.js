@@ -1,8 +1,8 @@
 import React from 'react';
 import Card from './Card.js'
 import image1 from '../../images/slide3Re.jpg'
-import image2 from '../../images/implant.jpg'
-import image3 from '../../images/removable.jpg'
+import image2 from '../../images/implantRe.jpg'
+import image3 from '../../images/removableRe.jpg'
 
 const Services = () => {
     return(
